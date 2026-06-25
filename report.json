@@ -1,0 +1,38 @@
+{
+  "scanned_at": "2026-06-25T11:15:00Z",
+  "london": {
+    "total": 200,
+    "www_count": 77,
+    "stats": {
+      "no automation": 21,
+      "automated": 7,
+      "basic online": 2
+    }
+  },
+  "california": {
+    "total": 1000,
+    "www_count": 553,
+    "stats": {
+      "no automation": 116,
+      "basic online": 8,
+      "AI LIKELY": 1,
+      "automated": 22,
+      "no website": 3
+    }
+  },
+  "top_ai_london": [],
+  "top_ai_california": [
+    {
+      "name": "Nation's Giant Hamburgers",
+      "type": "fast_food",
+      "signals": {
+        "platforms": [],
+        "ai_platforms": [
+          "olo.com"
+        ],
+        "ai_text": []
+      },
+      "website": "https://www.nationsrestaurants.com/"
+    }
+  ]
+}
