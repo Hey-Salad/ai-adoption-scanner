@@ -39,3 +39,9 @@ The only AI-positive hit was **Nation's Giant Hamburgers** (CA) using olo.com.
 - Get Google Places API key for richer data
 - Deploy to cloud for full-scale scanning
 - Add more AI detection signals (OpenAI embeddings, Claude API integration)
+
+## License
+
+Copyright (C) 2026 HeySalad Inc.
+
+Licensed under the GNU Affero General Public License v3.0 only (AGPL-3.0-only). See [LICENSE](LICENSE) and [NOTICE](NOTICE). If you run a modified version of this software to provide a network service, the AGPL requires you to offer its users the corresponding source code. Versions published before this change remain under their previous licence.
